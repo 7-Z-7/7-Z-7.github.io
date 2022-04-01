@@ -10,7 +10,7 @@ locale                   : "CN"
 title                    : "张琦/ Zhang Qi"
 title_separator          : "-"
 name                     : &name "Zhang Qi"
-description              : &description "personal description"
+description              : &description "Data Mining and Machine Learning Player"
 url                      : https://7-z-7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "7-Z-7/7-Z-7.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "张琦/Zhang Qi"
-  avatar           : "profile.png"
-  bio              : 
+  avatar           : "profile.jpg"
+  bio              : ' '
   location         : 
   employer         :
   pubmed           : 

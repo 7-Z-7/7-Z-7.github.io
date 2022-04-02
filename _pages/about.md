@@ -1,58 +1,35 @@
 ---
 permalink: /
-title:
+title: "Zhang Qi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Brief Biography
+======
+received the B.S. degree in physical sciences from the University of Science and Technology of China (USTC), Hefei, China, 2016. He is currently working toward the Ph.D. degree in the Department of Computer Science and Technology, USTC. His research interests include data mining, deep learning, sequential analysis, and earthquake related applications, such as earthquake detection and earthquake prediction.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physical Sciences, University of Science and Technology of China (USTC), 2013-2017
+* Studying for Ph.D. in Computer Science and Technology, University of Science and Technology of China (USTC), 2017-now
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Honor
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

@@ -1,0 +1,13 @@
+---
+title: "Market-oriented job skill valuation with cooperative composition neural network"
+collection: publications
+permalink: /publication/2021-03-31-Market-oriented job skill valuation with cooperative composition neural network
+excerpt: 'The value assessment of job skills is important for companies to select and retain the right talent. However, there are few quantitative ways available for this assessment. Therefore, we propose a data-driven solution to assess skill value from a market-oriented perspective. Specifically, we formulate the task of job skill value assessment as a Salary-Skill Value Composition Problem, where each job position is regarded as the composition of a set of required skills attached with the contextual information of jobs, and the job salary is assumed to be jointly influenced by the context-aware value of these skills. Then, we propose an enhanced neural network with cooperative structure, namely Salary-Skill Composition Network (SSCN), to separate the job skills and measure their value based on the massive job postings. Experiments show that SSCN can not only assign meaningful value to job skills, but also outperforms benchmark models for job salary prediction.'
+date: 2021-03-31
+venue: 'Nature Communications'
+paperurl: 
+citation: 'Sun, Ying, Fuzhen Zhuang, Hengshu Zhu, Qi Zhang, Qing He, and Hui Xiong. "Market-oriented job skill valuation with cooperative composition neural network." Nature communications 12, no. 1 (2021): 1-12.'
+---
+The value assessment of job skills is important for companies to select and retain the right talent. However, there are few quantitative ways available for this assessment. Therefore, we propose a data-driven solution to assess skill value from a market-oriented perspective. Specifically, we formulate the task of job skill value assessment as a Salary-Skill Value Composition Problem, where each job position is regarded as the composition of a set of required skills attached with the contextual information of jobs, and the job salary is assumed to be jointly influenced by the context-aware value of these skills. Then, we propose an enhanced neural network with cooperative structure, namely Salary-Skill Composition Network (SSCN), to separate the job skills and measure their value based on the massive job postings. Experiments show that SSCN can not only assign meaningful value to job skills, but also outperforms benchmark models for job salary prediction.
+
+[Download paper here](https://7-z-7.github.io/files/2021Market-oriented job skill valuation with cooperati.pdf)

@@ -9,7 +9,7 @@ redirect_from:
 ---
 Brief Biography
 ======
-I am currently working toward the Ph.D. degree in the Department of Computer Science and Technology, the University of Science and Technology of China (USTC). I have received the B.S. degree in physical sciences from USTC. My research interests include data mining, deep learning, sequential analysis, and earthquake related applications, such as earthquake detection and earthquake prediction.
+I am currently working toward the Ph.D. degree in the Department of Computer Science and Technology, the University of Science and Technology of China (USTC). I have received the B.S. degree in physical sciences from USTC. My research interests include data mining, deep learning, sequence modeling, NLP, CV, talent analysis and earthquake related applications.
 
 Education
 ======

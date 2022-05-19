@@ -1,14 +1,10 @@
 ---
-permalink: /
-title: "Zhang Qi"
-excerpt: "Demo"
+layout: archive
+title: "Applications"
+permalink: /applications/
 author_profile: true
-redirect_from: 
-  - /applications/
-  - /applications.html
 ---
-Game Demo
 ======
-This is a demo for RL in game.
+* **Jerry Run:** A game demo for Reinforcement Learning.
 
 [Download game demo here (Windows)](https://7-z-7.github.io/files/JerryRunPlay.zip)

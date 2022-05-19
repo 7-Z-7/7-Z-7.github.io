@@ -9,7 +9,7 @@ redirect_from:
 ---
 Brief Biography
 ======
-I am currently working toward the Ph.D. degree in the Department of Computer Science and Technology, the University of Science and Technology of China (USTC). I have received the B.S. degree in physical sciences from USTC. My research interests include data mining, deep learning, sequence modeling, NLP, CV, talent analysis and earthquake related applications.
+I am currently working toward the Ph.D. degree in the Department of Computer Science and Technology, the University of Science and Technology of China (USTC). I have received the B.S. degree in physical sciences from USTC. My research interests include data mining, sequence modeling, NLP, CV, RL, talent analysis and earthquake related applications.
 
 Education
 ======
@@ -29,6 +29,7 @@ Publications
 
 Honor
 ======
+* 2022, Outstanding Graduate of University of Science and Technology of China
 * 2019, ICDM 2019 student travel award, Award
 * 2017, Tianchi Competition: Aftershock Detection Contest, Runner Up
 * 2016, The 11th USTC Physics Experiment Competition, Grand Prize
